@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+D:\CODE\MY PROJECTS\Java Chat System\.metadata\.plugins\org.eclipse.jdt.core
+885259603.index
